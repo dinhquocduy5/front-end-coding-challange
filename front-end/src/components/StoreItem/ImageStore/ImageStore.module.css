@@ -1,0 +1,6 @@
+.containImage {
+  width: 10rem;
+  height: 10rem;
+  border: 1px solid #bbb;
+  border-radius: 45%;
+}

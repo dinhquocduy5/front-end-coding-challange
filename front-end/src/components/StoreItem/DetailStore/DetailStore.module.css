@@ -1,0 +1,7 @@
+.wrapperTitle {
+  display: flex;
+  justify-content: space-between;
+}
+.titleStore {
+  margin-top: 0;
+}

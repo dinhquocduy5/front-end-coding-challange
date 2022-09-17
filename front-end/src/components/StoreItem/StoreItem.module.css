@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  padding: 1rem 2rem;
+  border: 1px solid #000;
+  border-radius: 4px;
+}
+
+.wrapperInfoStore {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  grid-gap: 0.5rem;
+  margin-right: 0.5rem;
+}
